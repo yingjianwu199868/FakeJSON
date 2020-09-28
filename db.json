@@ -1,3 +1,4 @@
+{
 "events": [
     {
       "url": "/pages/a-big-river",
@@ -30,4 +31,5 @@
       "timestamp": 1512709024000
     }
   ]
+}
 }
